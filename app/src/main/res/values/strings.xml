@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Vayros Special Calculator</string>
+    <string name="display">000</string>
+    <string name="expressed"></string>
+    <string name="lastExpression"></string>
+    <string name="logString"></string>
+</resources>
